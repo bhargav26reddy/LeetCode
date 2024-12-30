@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/bhargav26reddy/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
