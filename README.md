@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/bhargav26reddy/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/bhargav26reddy/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/bhargav26reddy/LeetCode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bhargav26reddy/LeetCode/tree/master/0044-wildcard-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/bhargav26reddy/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
