@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bhargav26reddy/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhargav26reddy/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargav26reddy/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 ## Dynamic Programming
 |  |
@@ -65,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
