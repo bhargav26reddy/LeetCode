@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhargav26reddy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/bhargav26reddy/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/bhargav26reddy/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/bhargav26reddy/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -74,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/bhargav26reddy/LeetCode/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/bhargav26reddy/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bhargav26reddy/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
