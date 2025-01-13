@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhargav26reddy/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bhargav26reddy/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/bhargav26reddy/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargav26reddy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bhargav26reddy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/bhargav26reddy/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/bhargav26reddy/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
