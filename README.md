@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bhargav26reddy/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/bhargav26reddy/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/bhargav26reddy/LeetCode/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/bhargav26reddy/LeetCode/tree/master/0620-not-boring-movies) |
 | [1801-average-time-of-process-per-machine](https://github.com/bhargav26reddy/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/bhargav26reddy/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/bhargav26reddy/LeetCode/tree/master/2087-confirmation-rate) |
