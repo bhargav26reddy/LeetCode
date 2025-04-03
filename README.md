@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bhargav26reddy/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/bhargav26reddy/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/bhargav26reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhargav26reddy/LeetCode/tree/master/0039-combination-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bhargav26reddy/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/bhargav26reddy/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bhargav26reddy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/bhargav26reddy/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
