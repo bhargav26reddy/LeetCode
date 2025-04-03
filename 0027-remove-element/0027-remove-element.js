@@ -4,14 +4,13 @@
  * @return {number}
  */
 var removeElement = function(nums, val) {
-    let index = 0;
-
-    for (let i = 0; i < nums.length; i++) {
-        if (nums[i] != val) {
-            nums[index] = nums[i];
-            index++;
-        }
+    let sorted = nums.filter((a)=> a!=val)
+    // Copy elements from sorted back into nums
+    for (let i in sorted) {
+        nums[i] = sorted[i];
     }
-
-    return index;
+    
+    nums.length = sorted.length; // Resize nums
+    return nums.length; // Return new length
+    
 };
