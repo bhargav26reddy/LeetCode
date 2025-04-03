@@ -6,21 +6,9 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function (nums1, m, nums2, n) {
-    let p1 = m - 1;
-    let p2 = n - 1;
-
-    for (let p = n + m - 1; p > -1; p--) {
-        if (p2 < 0) {
-            break;
-        }
-
-        if (p1 >= 0 && nums1[p1] > nums2[p2]) {
-            nums1[p] = nums1[p1];
-            p1 -= 1;
-        } else {
-            nums1[p] = nums2[p2];
-            p2 -= 1;
-        }
-    }
-    return nums1;
+  let sortedArr = [...nums1.slice(0,m).concat(nums2.slice(0,n)).sort((a,b)=> a-b)]  
+  // Step 2: Copy sorted values back into nums1
+  for (let i = 0; i < sortedArr.length; i++) {
+    nums1[i] = sortedArr[i];
+  }
 };
