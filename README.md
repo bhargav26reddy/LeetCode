@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/bhargav26reddy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bhargav26reddy/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/bhargav26reddy/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/bhargav26reddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargav26reddy/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/bhargav26reddy/LeetCode/tree/master/0044-wildcard-matching) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/bhargav26reddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Greedy
 |  |
 | ------- |
